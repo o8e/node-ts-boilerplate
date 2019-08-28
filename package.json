@@ -1,0 +1,24 @@
+{
+  "name": "node-ts-boilerplate",
+  "version": "1.0.0",
+  "description": ":hotsprings: Node boilerplate with TypeScript compliation",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o8e/node-ts-boilerplate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/o8e/node-ts-boilerplate/issues"
+  },
+  "homepage": "https://github.com/o8e/node-ts-boilerplate#readme"
+}
