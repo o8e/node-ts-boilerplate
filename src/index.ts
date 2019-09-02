@@ -1,5 +1,5 @@
-const init = () => {
-  console.log('Hello, world!')
+export const init = () => {
+  return 'Hello, world!'
 }
 
 init()
